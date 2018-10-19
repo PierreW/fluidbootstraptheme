@@ -2,10 +2,10 @@
 	"name": "fluidbt/fluidbootstraptheme",
 	"description": "The fluid_bootstrap package from FluidTYPO3",
 	"require": {
-		"fluidtypo3/flux": "7.1.0",
-		"fluidtypo3/fluidcontent": "4.1.0",
-		"fluidtypo3/fluidpages": "3.1.1",
-		"fluidtypo3/vhs": "2.0.2"
+		"fluidtypo3/flux": "9.1.0",
+		"fluidtypo3/fluidcontent": "5.2.0",
+		"fluidtypo3/fluidpages": "4.3.0",
+		"fluidtypo3/vhs": "5.1.0"
 	},
 	"keywords": ["TYPO3 CMS", "templating", "Bootstrap", "FluidTYPO3", "fluid"],
 	"type": "typo3-cms-extension",

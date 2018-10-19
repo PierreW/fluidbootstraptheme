@@ -32,12 +32,12 @@ $EM_CONF[$_EXTKEY] = array(
 	'version' => '1.1.0',
 	'constraints' => array(
 		'depends' => array(
-			'typo3' => '6.1.00-6.2.99',
+			'typo3' => '6.1.00-8.7.99',
 			'cms' => '',
-			'flux' => '7.1.0',
-			'fluidcontent' => '4.1.0',
-			'fluidpages' => '3.1.1',
-			'vhs' => '2.0.2',
+			'flux' => '9.1.0',
+			'fluidcontent' => '5.2.0',
+			'fluidpages' => '4.3.0',
+			'vhs' => '5.1.0',
 		),
 		'conflicts' => array(
 		),
